@@ -7,9 +7,9 @@ setup(
     author              = 'LEEJEONGJUN',
     author_email        = '1212879@naver.com',
     # 배포하는 패키지의 url을 적어줍니다. 보통 github 링크를 적습니다.
-    url                 = 'https://github.com/doorBW/pypi_deploy_test',
+    url                 = 'https://github.com/jun9729/torchedit',
     # 배포하는 패키지의 다운로드 url을 적어줍니다.
-    download_url        = 'https://github.com/doorBW/pypi_deploy_test/archive/master.zip',
+    download_url        = 'https://github.com/jun9729/torchedit/archive/master.zip',
     install_requires    =  ['torch','torchvision'],
     # 등록하고자 하는 패키지를 적는 곳입니다.
     # 우리는 find_packages 라이브러리를 이용하기 때문에 아래와 같이 적어줍니다.
